@@ -1,0 +1,5 @@
+tasks:
+  - init: pip install -r requirements2.txt
+    command: echo "To run the game type 'python dragonsnax.py'"
+  - init: pip install -r requirements3.txt
+    command: echo "This game only supports python2.7"
